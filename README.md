@@ -1,2 +1,3 @@
-# wine-quality-prediction
-# wine-quality-prediction
+# Wine Quality Prediction Web App
+
+![ss](https://imgur.com/OYFEXok)
